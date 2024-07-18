@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+					Loudness Toolbox Change Log
+						WWW.GENESIS.FR
+-------------------------------------------------------------------------------
+
+CHANGES SINCE 1.0 - YYYY/MM/DD
+================================
+Changes will appear here in the future.
+
+
+January, 2010
+================================
+Release 1.0 of the Loudness Toolbox.
+First release of the toolbox for Matlab.
